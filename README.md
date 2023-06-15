@@ -8,6 +8,7 @@
 ## Volatility plugins
 
 - [**Community plugins**](https://github.com/volatilityfoundation/community/)
+- [**Plugin development tutorial**](https://github.com/iAbadia/Volatility-Plugin-Tutorial)
 - [Prefetch](https://github.com/forensicxlab/volatility3_plugins)
 - [AnyDesk](https://github.com/forensicxlab/volatility3_plugins)
 - [KeePass](https://github.com/forensicxlab/volatility3_plugins)
@@ -30,6 +31,7 @@
 - [Path Check](https://github.com/TazWake/volatility-plugins)
 - [Triagecheck](https://github.com/TazWake/volatility-plugins)
 - [AutoRuns](https://github.com/tomchop/volatility-autoruns)
+- [Bitlocker](https://github.com/tribalchicken/volatility-bitlocker)
 - [Linux - Inodes](https://github.com/forensicxlab/volatility3_plugins)
 
 ## MemProcFS extensions
@@ -43,6 +45,8 @@
 - [memOptix - Jupyter notebook](https://github.com/blueteam0ps/memOptix)
 - [Auto_vol - Automated basics volatility tasks](https://github.com/Zeecka/Auto_vol)
 - [AutoVolatility](https://github.com/carlospolop/autoVolatility)
+- [VolatilityBot](https://github.com/mkorman90/VolatilityBot)
+- [Calamity](https://github.com/Hestat/calamity)
 - [memtriage](https://github.com/gleeda/memtriage)
 - [AutoTimeliner](https://github.com/andreafortuna/autotimeliner)
 
