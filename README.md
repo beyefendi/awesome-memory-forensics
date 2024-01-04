@@ -43,7 +43,7 @@
 - [Orochi - The Volatility Collaborative GUI](https://github.com/LDO-CERT/orochi)
 - [Volatility Workbench](https://www.osforensics.com/tools/volatility-workbench.html)
 - [memOptix - Jupyter notebook](https://github.com/blueteam0ps/memOptix)
-- [Auto_vol - Automated basics volatility tasks](https://github.com/Zeecka/Auto_vol)
+- [Auto_vol - Automated basics volatility tasks](https://github.com/Zeecka/Auto_vol) - Extracts bitlocker/luks keys and mounts disk image
 - [AutoVolatility](https://github.com/carlospolop/autoVolatility)
 - [VolatilityBot](https://github.com/mkorman90/VolatilityBot)
 - [Calamity](https://github.com/Hestat/calamity)
@@ -55,6 +55,10 @@
 - [Power Up Memory Forensics with Memory Baseliner](https://www.sans.org/blog/power-up-memory-forensics-with-memory-baseliner/)
 - [Automating Memory Analysis with AChoirX, Volatility, and LOKI](http://www.musectech.com/2022/04/automating-memory-analysis-with-achoirx.html)
 - [VMware Memory Analysis with MemProcFS](https://blog.ecapuano.com/p/vmware-memory-analysis-with-memprocfs)
+
+## Analysis of Artifacts
+
+- [Volatility3: Modern Windows Hibernation file analysis](https://www.forensicxlab.com/posts/hibernation/)
 
 ## Papers
 
