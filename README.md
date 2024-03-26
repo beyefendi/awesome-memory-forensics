@@ -55,6 +55,7 @@
 - [Power Up Memory Forensics with Memory Baseliner](https://www.sans.org/blog/power-up-memory-forensics-with-memory-baseliner/)
 - [Automating Memory Analysis with AChoirX, Volatility, and LOKI](http://www.musectech.com/2022/04/automating-memory-analysis-with-achoirx.html)
 - [VMware Memory Analysis with MemProcFS](https://blog.ecapuano.com/p/vmware-memory-analysis-with-memprocfs)
+- [Comae Memory and Network Analysis: Beginning an Incident Investigation](https://www.magnetforensics.com/blog/comae-memory-and-network-analysis-beginning-an-incident-investigation/)
 
 ## Analysis of Artifacts
 
