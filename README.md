@@ -40,6 +40,7 @@
 
 ## Analysis Tools
 
+- [VolWeb -  Volatility 3 frontend](https://github.com/k1nd0ne/VolWeb)
 - [Orochi - The Volatility Collaborative GUI](https://github.com/LDO-CERT/orochi)
 - [Volatility Workbench](https://www.osforensics.com/tools/volatility-workbench.html)
 - [memOptix - Jupyter notebook](https://github.com/blueteam0ps/memOptix)
@@ -77,7 +78,8 @@
 
 ## CTFs
 
-- [MemLabs - 7 challenge](https://github.com/stuxnet999/MemLabs)
 - [Anomalies in Windows Memory](https://blog.cyber5w.com/anomalies-hunting-in-windows-memory-dump)
+- [A memory dump](https://github.com/SecurityNik/CTF) | [Write Up](https://www.securitynik.com/2024/03/total-recall-2024-memory-forensics-self.html)
+- [MemLabs - 7 challenge](https://github.com/stuxnet999/MemLabs)
 
 ## Memory image dataset
