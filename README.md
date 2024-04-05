@@ -78,5 +78,6 @@
 ## CTFs
 
 - [MemLabs - 7 challenge](https://github.com/stuxnet999/MemLabs)
+- [Anomalies in Windows Memory](https://blog.cyber5w.com/anomalies-hunting-in-windows-memory-dump)
 
 ## Memory image dataset
